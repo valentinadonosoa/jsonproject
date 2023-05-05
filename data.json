@@ -1,0 +1,124 @@
+[
+
+    {
+    "Name": "amaryllis",
+    "Image": "assets/flowers_amaryllis.png",
+    "Family": "Amaryllidaceae"
+    },
+    
+    {
+    "Name": "anemone",
+    "Image": "assets/flowers_anemone.png",
+    "Family": "Ranunculaceae"
+    },
+    
+    {
+    "Name": "anthurium",
+    "Image": "assets/flowers_anthurium.png",
+    "Family": "Araceae"
+    },
+    
+    {
+    "Name": "aster",
+    "Image": "assets/flowers_aster.png",
+    "Family": "Asteraceae"
+    },
+    
+    {
+    "Name": "carnation",
+    "Image": "assets/flowers_carnation.png",
+    "Family": "Caryophyllaceae"
+    },
+    
+    {
+    "Name": "chrysanthenum",
+    "Image": "assets/flowers_chrysanthenum.png",
+    "Family": "Asteraceae"
+    },
+    
+    {
+    "Name": "daffodil",
+    "Image": "assets/flowers_daffodil.png",
+    "Family": "Amaryllidaceae"
+    },
+    
+    {
+    "Name": "delphinium",
+    "Image": "assets/flowers_delphinium.png",
+    "Family": "Ranunculaceae"
+    },
+    
+    {
+    "Name": "freesia",
+    "Image": "assets/flowers_freesia.png",
+    "Family": "Iridaceae"
+    },
+    
+    {
+    "Name": "gladiolus",
+    "Image": "assets/flowers_gladiolus.png",
+    "Family": "Iridaceae"
+    },
+    
+    {
+    "Name": "hyacinth",
+    "Image": "assets/flowers_hyacinth.png",
+    "Family": "Asparagaceae"
+    },
+    
+    {
+    "Name": "hydrangea",
+    "Image": "assets/flowers_hydrangea.png",
+    "Family": "Hydrangeaceae"
+    },
+    
+    {
+    "Name": "iris",
+    "Image": "assets/flowers_iris.png",
+    "Family": "Iridaceae"
+    },
+    
+    {
+    "Name": "lily",
+    "Image": "assets/flowers_lily.png",
+    "Family": "Liliaceae"
+    },
+        
+    {
+    "Name": "orchid",
+    "Image": "assets/flowers_orchid.png",
+    "Family": "Orchidaceae"
+    },
+        
+    {
+    "Name": "peony",
+    "Image": "assets/flowers_peony.png",
+    "Family": "Paeoniaceae"
+    },
+        
+    {
+    "Name": "protea",
+    "Image": "assets/flowers_protea.png",
+    "Family": "Proteaceae"
+    },
+    
+    {
+    "Name": "rose",
+    "Image": "assets/flowers_rose.png",
+    "Family": "Rosaceae"
+    },
+            
+    {
+    "Name": "snapdragon",
+    "Image": "assets/flowers_snapdragon.png",
+    "Family": "Plantaginaceae"
+    },
+            
+    {
+    "Name": "sunflower",
+    "Image": "assets/flowers_sunflower.png",
+    "Family": "Asteraceae"
+    }
+    ]
+        
+        
